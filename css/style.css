@@ -64,6 +64,7 @@ h1 {
 	padding: 50px;
 	background-color: none;
 	float: left;
+	text-align: left;
 }
 
 footer {
@@ -92,4 +93,8 @@ p.text_form {
 #contact_form {
 	float: left;
 	margin: 0 auto;
+}
+
+.contact {
+	float: left;
 }
